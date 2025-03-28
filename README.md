@@ -80,10 +80,6 @@ Ctrl + R	Reset Timer
 - [PySide6](https://pypi.org/project/PySide6/) - Qt framework bindings
 - Python standard libraries
 
-## License
-
-MIT License - See LICENSE file
-
 ## Acknowledgments
 
 - Pomodoro Technique® by Francesco Cirillo
